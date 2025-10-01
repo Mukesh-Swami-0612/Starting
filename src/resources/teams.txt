@@ -1,0 +1,10 @@
+Mumbai Indians|Mumbai|Hardik Pandya|Wankhede Stadium
+Chennai Super Kings|Chennai|MS Dhoni|M.A. Chidambaram Stadium
+Royal Challengers Bangalore|Bangalore|Faf du Plessis|M. Chinnaswamy Stadium
+Kolkata Knight Riders|Kolkata|Shreyas Iyer|Eden Gardens
+Delhi Capitals|Delhi|Rishabh Pant|Arun Jaitley Stadium
+Punjab Kings|Mohali|Shikhar Dhawan|IS Bindra Stadium
+Rajasthan Royals|Jaipur|Sanju Samson|Sawai Mansingh Stadium
+Sunrisers Hyderabad|Hyderabad|Pat Cummins|Rajiv Gandhi Stadium
+Gujarat Titans|Ahmedabad|Shubman Gill|Narendra Modi Stadium
+Lucknow Super Giants|Lucknow|KL Rahul|BRSABV Ekana Stadium 
